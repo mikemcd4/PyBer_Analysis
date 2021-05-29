@@ -16,4 +16,12 @@ Pyber is a ridesharing company looking to stand out in a highly competitive mark
 
 ![Fig1](https://user-images.githubusercontent.com/77767984/120051964-8505cd80-bfe8-11eb-897c-9b7a268fd359.png)
 
-####
+#### Ride Count Data (by City Type)
+
+![Fig2](https://user-images.githubusercontent.com/77767984/120059868-c8c4fb00-c019-11eb-93d7-dd534c022805.png)
+
+#####
+
+![Fig7](https://user-images.githubusercontent.com/77767984/120059910-fb6ef380-c019-11eb-9a5f-8296e1e40966.png)
+
+
